@@ -7,6 +7,8 @@ import tabulate
 from matplotlib import pyplot as plt
 matplotlib.use('TkAgg')
 
+
+
 # here is the  1.69
 x = [1.69, 1.4835, 1.3195, 1.1355, 0.928, 0.81, 0.652, 0.465]
 y = [481.6, 647.8, 779.8, 927.9, 1061.7, 1194.1, 1306.9, 1457.1]
